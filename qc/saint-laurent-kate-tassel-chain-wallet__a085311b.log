@@ -1,0 +1,23 @@
+17:37:12 | INFO: Data are loaded, start creating Blender stuff
+17:37:12 | INFO: Blender create Mesh node Object_4
+17:37:12 | INFO: Blender create Mesh node Object_5
+17:37:12 | INFO: Blender create Mesh node Object_6
+17:37:12 | INFO: Blender create Mesh node Object_1
+17:37:12 | INFO: Blender create Mesh node Object_3
+17:37:12 | INFO: Blender create Mesh node Object_8
+17:37:12 | INFO: Blender create Mesh node Object_0
+17:37:12 | INFO: Blender create Mesh node Object_7
+17:37:12 | INFO: Blender create Mesh node Object_2
+17:37:12 | INFO: glTF import finished in 0.25s
+/Users/stepan/agora-work/qc_render.py:32: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  w.use_nodes = True
+00:07.029  render           | Saved: '/Users/stepan/agora-objaverse-viewer/qc/saint-laurent-kate-tassel-chain-wallet__a085311b_front.png'
+00:08.575  render           | Saved: '/Users/stepan/agora-objaverse-viewer/qc/saint-laurent-kate-tassel-chain-wallet__a085311b_three-quarter.png'
+00:11.992  render           | Saved: '/Users/stepan/agora-objaverse-viewer/qc/saint-laurent-kate-tassel-chain-wallet__a085311b_side.png'
+00:13.448  render           | Saved: '/Users/stepan/agora-objaverse-viewer/qc/saint-laurent-kate-tassel-chain-wallet__a085311b_top-detail.png'
+QC_STATS meshes=9 tris~=51228 dims=0.254,0.083,0.127
+QC_VIEW Standard
+QC_SHEET_SKIP No module named 'PIL'
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:31:22)
+
+Blender quit

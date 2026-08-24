@@ -1,0 +1,23 @@
+17:35:49 | INFO: Data are loaded, start creating Blender stuff
+17:35:49 | INFO: Blender create Mesh node pasted__pasted__pTorus1_pasted__pasted__blinn3_0
+17:35:49 | INFO: Blender create Mesh node pasted__pasted__pTorus2_pasted__blinn5_0
+17:35:49 | INFO: Blender create Mesh node pasted__pTorus2_pasted__blinn5_0
+17:35:49 | INFO: Blender create Mesh node pasted__pasted__pasted__pSphere1_pasted__pasted__blinn3_0
+17:35:49 | INFO: Blender create Mesh node pasted__pasted__pSphere1_pasted__pasted__blinn3_0
+17:35:49 | INFO: Blender create Mesh node pasted__pasted__pSphere2_pasted__pasted__blinn3_0
+17:35:49 | INFO: Blender create Mesh node pasted__pSphere1_pasted__pasted__blinn3_0
+17:35:49 | INFO: Blender create Mesh node pasted__pCone1_blinn5_0
+17:35:49 | INFO: Blender create Mesh node pasted__pTorus1_pasted__blinn5_0
+17:35:49 | INFO: glTF import finished in 0.08s
+/Users/stepan/agora-work/qc_render.py:32: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  w.use_nodes = True
+00:05.727  render           | Saved: '/Users/stepan/agora-objaverse-viewer/qc/gucci-hat-model-white__1d19da43_front.png'
+00:07.558  render           | Saved: '/Users/stepan/agora-objaverse-viewer/qc/gucci-hat-model-white__1d19da43_three-quarter.png'
+00:10.428  render           | Saved: '/Users/stepan/agora-objaverse-viewer/qc/gucci-hat-model-white__1d19da43_side.png'
+00:11.795  render           | Saved: '/Users/stepan/agora-objaverse-viewer/qc/gucci-hat-model-white__1d19da43_top-detail.png'
+QC_STATS meshes=9 tris~=13954 dims=2.001,2.000,0.575
+QC_VIEW Standard
+QC_SHEET_SKIP No module named 'PIL'
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:31:22)
+
+Blender quit

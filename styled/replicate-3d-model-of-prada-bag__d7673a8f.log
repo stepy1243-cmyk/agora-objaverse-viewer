@@ -1,0 +1,723 @@
+17:35:11 | INFO: Data are loaded, start creating Blender stuff
+17:35:11 | INFO: Blender create Mesh node Object_0
+17:35:11 | INFO: Blender create Mesh node Object_1
+17:35:11 | INFO: Blender create Mesh node Object_2
+17:35:11 | INFO: Blender create Mesh node Object_3
+17:35:11 | INFO: Blender create Mesh node Object_4
+17:35:11 | INFO: Blender create Mesh node Object_5
+17:35:11 | INFO: Blender create Mesh node Object_6
+17:35:11 | INFO: Blender create Mesh node Object_7
+17:35:11 | INFO: Blender create Mesh node Object_8
+17:35:11 | INFO: Blender create Mesh node Object_9
+17:35:11 | INFO: Blender create Mesh node Object_10
+17:35:11 | INFO: Blender create Mesh node Object_11
+17:35:11 | INFO: Blender create Mesh node Object_12
+17:35:11 | INFO: Blender create Mesh node Object_13
+17:35:11 | INFO: Blender create Mesh node Object_14
+17:35:11 | INFO: Blender create Mesh node Object_15
+17:35:11 | INFO: Blender create Mesh node Object_16
+17:35:11 | INFO: Blender create Mesh node Object_17
+17:35:11 | INFO: Blender create Mesh node Object_18
+17:35:11 | INFO: Blender create Mesh node Object_19
+17:35:11 | INFO: Blender create Mesh node Object_20
+17:35:11 | INFO: Blender create Mesh node Object_21
+17:35:11 | INFO: Blender create Mesh node Object_22
+17:35:11 | INFO: Blender create Mesh node Object_23
+17:35:11 | INFO: Blender create Mesh node Object_24
+17:35:11 | INFO: Blender create Mesh node Object_25
+17:35:11 | INFO: Blender create Mesh node Object_26
+17:35:11 | INFO: Blender create Mesh node Object_27
+17:35:11 | INFO: Blender create Mesh node Object_28
+17:35:11 | INFO: Blender create Mesh node Object_29
+17:35:11 | INFO: Blender create Mesh node Object_30
+17:35:11 | INFO: Blender create Mesh node Object_31
+17:35:11 | INFO: Blender create Mesh node Object_32
+17:35:11 | INFO: Blender create Mesh node Object_33
+17:35:11 | INFO: Blender create Mesh node Object_34
+17:35:11 | INFO: Blender create Mesh node Object_35
+17:35:11 | INFO: Blender create Mesh node Object_36
+17:35:11 | INFO: Blender create Mesh node Object_37
+17:35:11 | INFO: Blender create Mesh node Object_38
+17:35:11 | INFO: Blender create Mesh node Object_39
+17:35:11 | INFO: Blender create Mesh node Object_40
+17:35:11 | INFO: Blender create Mesh node Object_41
+17:35:11 | INFO: Blender create Mesh node Object_42
+17:35:11 | INFO: Blender create Mesh node Object_43
+17:35:11 | INFO: Blender create Mesh node Object_44
+17:35:11 | INFO: Blender create Mesh node Object_45
+17:35:11 | INFO: Blender create Mesh node Object_46
+17:35:11 | INFO: Blender create Mesh node Object_47
+17:35:11 | INFO: Blender create Mesh node Object_48
+17:35:11 | INFO: Blender create Mesh node Object_49
+17:35:11 | INFO: Blender create Mesh node Object_50
+17:35:11 | INFO: Blender create Mesh node Object_51
+17:35:11 | INFO: Blender create Mesh node Object_52
+17:35:11 | INFO: Blender create Mesh node Object_53
+17:35:11 | INFO: Blender create Mesh node Object_54
+17:35:11 | INFO: Blender create Mesh node Object_55
+17:35:11 | INFO: Blender create Mesh node Object_56
+17:35:11 | INFO: Blender create Mesh node Object_57
+17:35:11 | INFO: Blender create Mesh node Object_58
+17:35:11 | INFO: Blender create Mesh node Object_59
+17:35:11 | INFO: Blender create Mesh node Object_60
+17:35:11 | INFO: Blender create Mesh node Object_61
+17:35:11 | INFO: Blender create Mesh node Object_62
+17:35:11 | INFO: Blender create Mesh node Object_63
+17:35:11 | INFO: Blender create Mesh node Object_64
+17:35:11 | INFO: Blender create Mesh node Object_65
+17:35:11 | INFO: Blender create Mesh node Object_66
+17:35:11 | INFO: Blender create Mesh node Object_67
+17:35:11 | INFO: Blender create Mesh node Object_68
+17:35:11 | INFO: Blender create Mesh node Object_69
+17:35:11 | INFO: Blender create Mesh node Object_70
+17:35:11 | INFO: Blender create Mesh node Object_71
+17:35:11 | INFO: Blender create Mesh node Object_72
+17:35:11 | INFO: Blender create Mesh node Object_73
+17:35:11 | INFO: Blender create Mesh node Object_74
+17:35:11 | INFO: Blender create Mesh node Object_75
+17:35:11 | INFO: Blender create Mesh node Object_76
+17:35:11 | INFO: Blender create Mesh node Object_77
+17:35:11 | INFO: Blender create Mesh node Object_78
+17:35:11 | INFO: Blender create Mesh node Object_79
+17:35:11 | INFO: Blender create Mesh node Object_80
+17:35:11 | INFO: Blender create Mesh node Object_81
+17:35:11 | INFO: Blender create Mesh node Object_82
+17:35:11 | INFO: Blender create Mesh node Object_83
+17:35:11 | INFO: Blender create Mesh node Object_84
+17:35:11 | INFO: Blender create Mesh node Object_85
+17:35:11 | INFO: Blender create Mesh node Object_86
+17:35:11 | INFO: Blender create Mesh node Object_87
+17:35:11 | INFO: Blender create Mesh node Object_88
+17:35:11 | INFO: Blender create Mesh node Object_89
+17:35:11 | INFO: Blender create Mesh node Object_90
+17:35:11 | INFO: Blender create Mesh node Object_91
+17:35:11 | INFO: Blender create Mesh node Object_92
+17:35:11 | INFO: Blender create Mesh node Object_93
+17:35:11 | INFO: Blender create Mesh node Object_94
+17:35:11 | INFO: Blender create Mesh node Object_95
+17:35:11 | INFO: Blender create Mesh node Object_96
+17:35:11 | INFO: Blender create Mesh node Object_97
+17:35:11 | INFO: Blender create Mesh node Object_98
+17:35:11 | INFO: Blender create Mesh node Object_99
+17:35:11 | INFO: Blender create Mesh node Object_100
+17:35:11 | INFO: Blender create Mesh node Object_101
+17:35:11 | INFO: Blender create Mesh node Object_102
+17:35:11 | INFO: Blender create Mesh node Object_103
+17:35:11 | INFO: Blender create Mesh node Object_104
+17:35:11 | INFO: Blender create Mesh node Object_105
+17:35:11 | INFO: Blender create Mesh node Object_106
+17:35:11 | INFO: Blender create Mesh node Object_107
+17:35:11 | INFO: Blender create Mesh node Object_108
+17:35:11 | INFO: Blender create Mesh node Object_109
+17:35:11 | INFO: Blender create Mesh node Object_110
+17:35:11 | INFO: Blender create Mesh node Object_111
+17:35:11 | INFO: Blender create Mesh node Object_112
+17:35:11 | INFO: Blender create Mesh node Object_113
+17:35:11 | INFO: Blender create Mesh node Object_114
+17:35:11 | INFO: Blender create Mesh node Object_115
+17:35:11 | INFO: Blender create Mesh node Object_116
+17:35:11 | INFO: Blender create Mesh node Object_117
+17:35:11 | INFO: Blender create Mesh node Object_118
+17:35:11 | INFO: Blender create Mesh node Object_119
+17:35:11 | INFO: Blender create Mesh node Object_120
+17:35:11 | INFO: Blender create Mesh node Object_121
+17:35:11 | INFO: Blender create Mesh node Object_122
+17:35:11 | INFO: Blender create Mesh node Object_123
+17:35:11 | INFO: Blender create Mesh node Object_124
+17:35:11 | INFO: Blender create Mesh node Object_125
+17:35:11 | INFO: Blender create Mesh node Object_126
+17:35:11 | INFO: Blender create Mesh node Object_127
+17:35:11 | INFO: Blender create Mesh node Object_128
+17:35:11 | INFO: Blender create Mesh node Object_129
+17:35:11 | INFO: Blender create Mesh node Object_130
+17:35:11 | INFO: Blender create Mesh node Object_131
+17:35:11 | INFO: Blender create Mesh node Object_132
+17:35:11 | INFO: Blender create Mesh node Object_133
+17:35:11 | INFO: Blender create Mesh node Object_134
+17:35:11 | INFO: Blender create Mesh node Object_135
+17:35:11 | INFO: Blender create Mesh node Object_136
+17:35:11 | INFO: Blender create Mesh node Object_137
+17:35:11 | INFO: Blender create Mesh node Object_138
+17:35:11 | INFO: Blender create Mesh node Object_139
+17:35:11 | INFO: Blender create Mesh node Object_140
+17:35:11 | INFO: Blender create Mesh node Object_141
+17:35:11 | INFO: Blender create Mesh node Object_142
+17:35:11 | INFO: Blender create Mesh node Object_143
+17:35:11 | INFO: Blender create Mesh node Object_144
+17:35:11 | INFO: Blender create Mesh node Object_145
+17:35:11 | INFO: Blender create Mesh node Object_146
+17:35:11 | INFO: Blender create Mesh node Object_147
+17:35:11 | INFO: Blender create Mesh node Object_148
+17:35:11 | INFO: Blender create Mesh node Object_149
+17:35:11 | INFO: Blender create Mesh node Object_150
+17:35:11 | INFO: Blender create Mesh node Object_151
+17:35:11 | INFO: Blender create Mesh node Object_152
+17:35:11 | INFO: Blender create Mesh node Object_153
+17:35:11 | INFO: Blender create Mesh node Object_154
+17:35:11 | INFO: Blender create Mesh node Object_155
+17:35:11 | INFO: Blender create Mesh node Object_156
+17:35:11 | INFO: Blender create Mesh node Object_157
+17:35:11 | INFO: Blender create Mesh node Object_158
+17:35:11 | INFO: Blender create Mesh node Object_159
+17:35:11 | INFO: Blender create Mesh node Object_160
+17:35:11 | INFO: Blender create Mesh node Object_161
+17:35:11 | INFO: Blender create Mesh node Object_162
+17:35:11 | INFO: Blender create Mesh node Object_163
+17:35:11 | INFO: Blender create Mesh node Object_164
+17:35:11 | INFO: Blender create Mesh node Object_165
+17:35:11 | INFO: Blender create Mesh node Object_166
+17:35:11 | INFO: Blender create Mesh node Object_167
+17:35:11 | INFO: Blender create Mesh node Object_168
+17:35:11 | INFO: Blender create Mesh node Object_169
+17:35:11 | INFO: Blender create Mesh node Object_170
+17:35:11 | INFO: Blender create Mesh node Object_171
+17:35:11 | INFO: Blender create Mesh node Object_172
+17:35:11 | INFO: Blender create Mesh node Object_173
+17:35:11 | INFO: Blender create Mesh node Object_174
+17:35:11 | INFO: Blender create Mesh node Object_175
+17:35:11 | INFO: glTF import finished in 0.16s
+/Users/stepan/agora-work/agora_style.py:122: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  if not m.use_nodes: continue
+AGORA_DIMS 1.9381 1.4548 2.4226  ground_z=0.00000
+AGORA_APPLIED []
+AGORA_MATLINKS_DROPPED 0
+INFO Draco is available, use library at /Applications/Blender.app/Contents/Resources/5.2/scripts/addons_core/io_scene_gltf2/libbf_intern_draco_bridge.dylib
+INFO MeshOptimizer is available, use library at /Applications/Blender.app/Contents/Resources/5.2/scripts/addons_core/io_scene_gltf2/libbf_intern_meshopt_bridge.dylib
+17:35:11 | INFO: Starting glTF 2.0 export
+17:35:11 | INFO: Extracting primitive: Object_0
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_1
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_2
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_3
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_4
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_5
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_6
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_7
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_8
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_9
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_10
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_11
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_12
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_13
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_14
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_15
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_16
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_17
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_18
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_19
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_20
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_21
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_52
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_53
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_54
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_55
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_56
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_57
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_58
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_95
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_22
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_23
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_24
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_25
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_26
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_27
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_28
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_29
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_30
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_31
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_32
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_33
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_34
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_35
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_36
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_37
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_38
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_39
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_40
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_41
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_42
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_43
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_44
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_45
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_46
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_47
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_48
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_49
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_50
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_51
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_59
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_60
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_61
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_62
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_63
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_64
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_65
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_66
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_67
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_68
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_69
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_70
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_71
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_72
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_73
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_74
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_75
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_76
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_77
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_78
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_79
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_80
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_81
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_82
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_83
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_84
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_85
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_86
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_87
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_88
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_89
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_90
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_91
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_92
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_93
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_94
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_96
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_97
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_98
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_99
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_100
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_101
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_102
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_103
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_104
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_105
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_106
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_107
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_108
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_109
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_110
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_111
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_112
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_113
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_114
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_115
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_116
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_117
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_118
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_119
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_120
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_121
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_122
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_123
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_124
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_125
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_126
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_127
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_128
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_129
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_130
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_131
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_132
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_133
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_134
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_135
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_136
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_137
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_138
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_139
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_140
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_141
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_142
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_143
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_144
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_145
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_146
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_147
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_148
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_149
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_150
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_151
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_152
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_153
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_154
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_155
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_156
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_157
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_158
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_159
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_160
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_161
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_162
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_163
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_164
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_165
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_166
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_167
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_168
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_169
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_170
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_171
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_172
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_173
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_174
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_175
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Finished glTF 2.0 export in 0.2346649169921875 s
+
+17:35:11 | INFO: Data are loaded, start creating Blender stuff
+17:35:11 | INFO: Blender create Mesh node Object_0
+17:35:11 | INFO: Blender create Mesh node Object_1
+17:35:11 | INFO: Blender create Mesh node Object_2
+17:35:11 | INFO: Blender create Mesh node Object_3
+17:35:11 | INFO: Blender create Mesh node Object_4
+17:35:11 | INFO: Blender create Mesh node Object_5
+17:35:11 | INFO: Blender create Mesh node Object_6
+17:35:11 | INFO: Blender create Mesh node Object_7
+17:35:11 | INFO: Blender create Mesh node Object_8
+17:35:11 | INFO: Blender create Mesh node Object_9
+17:35:11 | INFO: Blender create Mesh node Object_10
+17:35:11 | INFO: Blender create Mesh node Object_11
+17:35:11 | INFO: Blender create Mesh node Object_12
+17:35:11 | INFO: Blender create Mesh node Object_13
+17:35:11 | INFO: Blender create Mesh node Object_14
+17:35:11 | INFO: Blender create Mesh node Object_15
+17:35:11 | INFO: Blender create Mesh node Object_16
+17:35:11 | INFO: Blender create Mesh node Object_17
+17:35:11 | INFO: Blender create Mesh node Object_18
+17:35:11 | INFO: Blender create Mesh node Object_19
+17:35:11 | INFO: Blender create Mesh node Object_20
+17:35:11 | INFO: Blender create Mesh node Object_21
+17:35:11 | INFO: Blender create Mesh node Object_52
+17:35:11 | INFO: Blender create Mesh node Object_53
+17:35:11 | INFO: Blender create Mesh node Object_54
+17:35:11 | INFO: Blender create Mesh node Object_55
+17:35:11 | INFO: Blender create Mesh node Object_56
+17:35:11 | INFO: Blender create Mesh node Object_57
+17:35:11 | INFO: Blender create Mesh node Object_58
+17:35:11 | INFO: Blender create Mesh node Object_95
+17:35:11 | INFO: Blender create Mesh node Object_22
+17:35:11 | INFO: Blender create Mesh node Object_23
+17:35:11 | INFO: Blender create Mesh node Object_24
+17:35:11 | INFO: Blender create Mesh node Object_25
+17:35:11 | INFO: Blender create Mesh node Object_26
+17:35:11 | INFO: Blender create Mesh node Object_27
+17:35:11 | INFO: Blender create Mesh node Object_28
+17:35:11 | INFO: Blender create Mesh node Object_29
+17:35:11 | INFO: Blender create Mesh node Object_30
+17:35:11 | INFO: Blender create Mesh node Object_31
+17:35:11 | INFO: Blender create Mesh node Object_32
+17:35:11 | INFO: Blender create Mesh node Object_33
+17:35:11 | INFO: Blender create Mesh node Object_34
+17:35:11 | INFO: Blender create Mesh node Object_35
+17:35:11 | INFO: Blender create Mesh node Object_36
+17:35:11 | INFO: Blender create Mesh node Object_37
+17:35:11 | INFO: Blender create Mesh node Object_38
+17:35:11 | INFO: Blender create Mesh node Object_39
+17:35:11 | INFO: Blender create Mesh node Object_40
+17:35:11 | INFO: Blender create Mesh node Object_41
+17:35:11 | INFO: Blender create Mesh node Object_42
+17:35:11 | INFO: Blender create Mesh node Object_43
+17:35:11 | INFO: Blender create Mesh node Object_44
+17:35:11 | INFO: Blender create Mesh node Object_45
+17:35:11 | INFO: Blender create Mesh node Object_46
+17:35:12 | INFO: Blender create Mesh node Object_47
+17:35:12 | INFO: Blender create Mesh node Object_48
+17:35:12 | INFO: Blender create Mesh node Object_49
+17:35:12 | INFO: Blender create Mesh node Object_50
+17:35:12 | INFO: Blender create Mesh node Object_51
+17:35:12 | INFO: Blender create Mesh node Object_59
+17:35:12 | INFO: Blender create Mesh node Object_60
+17:35:12 | INFO: Blender create Mesh node Object_61
+17:35:12 | INFO: Blender create Mesh node Object_62
+17:35:12 | INFO: Blender create Mesh node Object_63
+17:35:12 | INFO: Blender create Mesh node Object_64
+17:35:12 | INFO: Blender create Mesh node Object_65
+17:35:12 | INFO: Blender create Mesh node Object_66
+17:35:12 | INFO: Blender create Mesh node Object_67
+17:35:12 | INFO: Blender create Mesh node Object_68
+17:35:12 | INFO: Blender create Mesh node Object_69
+17:35:12 | INFO: Blender create Mesh node Object_70
+17:35:12 | INFO: Blender create Mesh node Object_71
+17:35:12 | INFO: Blender create Mesh node Object_72
+17:35:12 | INFO: Blender create Mesh node Object_73
+17:35:12 | INFO: Blender create Mesh node Object_74
+17:35:12 | INFO: Blender create Mesh node Object_75
+17:35:12 | INFO: Blender create Mesh node Object_76
+17:35:12 | INFO: Blender create Mesh node Object_77
+17:35:12 | INFO: Blender create Mesh node Object_78
+17:35:12 | INFO: Blender create Mesh node Object_79
+17:35:12 | INFO: Blender create Mesh node Object_80
+17:35:12 | INFO: Blender create Mesh node Object_81
+17:35:12 | INFO: Blender create Mesh node Object_82
+17:35:12 | INFO: Blender create Mesh node Object_83
+17:35:12 | INFO: Blender create Mesh node Object_84
+17:35:12 | INFO: Blender create Mesh node Object_85
+17:35:12 | INFO: Blender create Mesh node Object_86
+17:35:12 | INFO: Blender create Mesh node Object_87
+17:35:12 | INFO: Blender create Mesh node Object_88
+17:35:12 | INFO: Blender create Mesh node Object_89
+17:35:12 | INFO: Blender create Mesh node Object_90
+17:35:12 | INFO: Blender create Mesh node Object_91
+17:35:12 | INFO: Blender create Mesh node Object_92
+17:35:12 | INFO: Blender create Mesh node Object_93
+17:35:12 | INFO: Blender create Mesh node Object_94
+17:35:12 | INFO: Blender create Mesh node Object_96
+17:35:12 | INFO: Blender create Mesh node Object_97
+17:35:12 | INFO: Blender create Mesh node Object_98
+17:35:12 | INFO: Blender create Mesh node Object_99
+17:35:12 | INFO: Blender create Mesh node Object_100
+17:35:12 | INFO: Blender create Mesh node Object_101
+17:35:12 | INFO: Blender create Mesh node Object_102
+17:35:12 | INFO: Blender create Mesh node Object_103
+17:35:12 | INFO: Blender create Mesh node Object_104
+17:35:12 | INFO: Blender create Mesh node Object_105
+17:35:12 | INFO: Blender create Mesh node Object_106
+17:35:12 | INFO: Blender create Mesh node Object_107
+17:35:12 | INFO: Blender create Mesh node Object_108
+17:35:12 | INFO: Blender create Mesh node Object_109
+17:35:12 | INFO: Blender create Mesh node Object_110
+17:35:12 | INFO: Blender create Mesh node Object_111
+17:35:12 | INFO: Blender create Mesh node Object_112
+17:35:12 | INFO: Blender create Mesh node Object_113
+17:35:12 | INFO: Blender create Mesh node Object_114
+17:35:12 | INFO: Blender create Mesh node Object_115
+17:35:12 | INFO: Blender create Mesh node Object_116
+17:35:12 | INFO: Blender create Mesh node Object_117
+17:35:12 | INFO: Blender create Mesh node Object_118
+17:35:12 | INFO: Blender create Mesh node Object_119
+17:35:12 | INFO: Blender create Mesh node Object_120
+17:35:12 | INFO: Blender create Mesh node Object_121
+17:35:12 | INFO: Blender create Mesh node Object_122
+17:35:12 | INFO: Blender create Mesh node Object_123
+17:35:12 | INFO: Blender create Mesh node Object_124
+17:35:12 | INFO: Blender create Mesh node Object_125
+17:35:12 | INFO: Blender create Mesh node Object_126
+17:35:12 | INFO: Blender create Mesh node Object_127
+17:35:12 | INFO: Blender create Mesh node Object_128
+17:35:12 | INFO: Blender create Mesh node Object_129
+17:35:12 | INFO: Blender create Mesh node Object_130
+17:35:12 | INFO: Blender create Mesh node Object_131
+17:35:12 | INFO: Blender create Mesh node Object_132
+17:35:12 | INFO: Blender create Mesh node Object_133
+17:35:12 | INFO: Blender create Mesh node Object_134
+17:35:12 | INFO: Blender create Mesh node Object_135
+17:35:12 | INFO: Blender create Mesh node Object_136
+17:35:12 | INFO: Blender create Mesh node Object_137
+17:35:12 | INFO: Blender create Mesh node Object_138
+17:35:12 | INFO: Blender create Mesh node Object_139
+17:35:12 | INFO: Blender create Mesh node Object_140
+17:35:12 | INFO: Blender create Mesh node Object_141
+17:35:12 | INFO: Blender create Mesh node Object_142
+17:35:12 | INFO: Blender create Mesh node Object_143
+17:35:12 | INFO: Blender create Mesh node Object_144
+17:35:12 | INFO: Blender create Mesh node Object_145
+17:35:12 | INFO: Blender create Mesh node Object_146
+17:35:12 | INFO: Blender create Mesh node Object_147
+17:35:12 | INFO: Blender create Mesh node Object_148
+17:35:12 | INFO: Blender create Mesh node Object_149
+17:35:12 | INFO: Blender create Mesh node Object_150
+17:35:12 | INFO: Blender create Mesh node Object_151
+17:35:12 | INFO: Blender create Mesh node Object_152
+17:35:12 | INFO: Blender create Mesh node Object_153
+17:35:12 | INFO: Blender create Mesh node Object_154
+17:35:12 | INFO: Blender create Mesh node Object_155
+17:35:12 | INFO: Blender create Mesh node Object_156
+17:35:12 | INFO: Blender create Mesh node Object_157
+17:35:12 | INFO: Blender create Mesh node Object_158
+17:35:12 | INFO: Blender create Mesh node Object_159
+17:35:12 | INFO: Blender create Mesh node Object_160
+17:35:12 | INFO: Blender create Mesh node Object_161
+17:35:12 | INFO: Blender create Mesh node Object_162
+17:35:12 | INFO: Blender create Mesh node Object_163
+17:35:12 | INFO: Blender create Mesh node Object_164
+17:35:12 | INFO: Blender create Mesh node Object_165
+17:35:12 | INFO: Blender create Mesh node Object_166
+17:35:12 | INFO: Blender create Mesh node Object_167
+17:35:12 | INFO: Blender create Mesh node Object_168
+17:35:12 | INFO: Blender create Mesh node Object_169
+17:35:12 | INFO: Blender create Mesh node Object_170
+17:35:12 | INFO: Blender create Mesh node Object_171
+17:35:12 | INFO: Blender create Mesh node Object_172
+17:35:12 | INFO: Blender create Mesh node Object_173
+17:35:12 | INFO: Blender create Mesh node Object_174
+17:35:12 | INFO: Blender create Mesh node Object_175
+17:35:12 | INFO: glTF import finished in 0.16s
+AGORA_REIMPORT meshes=176 tris=20423 images=6 no_uv=0
+AGORA_OK
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:31:22)
+
+Blender quit

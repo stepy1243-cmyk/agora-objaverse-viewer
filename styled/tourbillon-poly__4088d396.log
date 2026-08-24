@@ -1,0 +1,207 @@
+17:35:13 | INFO: Data are loaded, start creating Blender stuff
+17:35:13 | INFO: Blender create Mesh node Object_0
+17:35:13 | INFO: Blender create Mesh node Object_1
+17:35:13 | INFO: Blender create Mesh node Object_2
+17:35:13 | INFO: Blender create Mesh node Object_3
+17:35:13 | INFO: Blender create Mesh node Material1
+17:35:13 | INFO: Blender create Mesh node Material1
+17:35:13 | INFO: Blender create Mesh node Material1
+17:35:13 | INFO: Blender create Mesh node Material1
+17:35:13 | INFO: Blender create Mesh node Material1
+17:35:13 | INFO: Blender create Mesh node Object_9
+17:35:13 | INFO: Blender create Mesh node Material1
+17:35:13 | INFO: Blender create Mesh node Material1
+17:35:13 | INFO: Blender create Mesh node Material1
+17:35:13 | INFO: Blender create Mesh node Material1
+17:35:13 | INFO: Blender create Mesh node Material1
+17:35:13 | INFO: Blender create Mesh node Material1
+17:35:13 | INFO: Blender create Mesh node Material1
+17:35:13 | INFO: Blender create Mesh node Material1
+17:35:13 | INFO: Blender create Mesh node Material1
+17:35:13 | INFO: Blender create Mesh node Material1
+17:35:13 | INFO: Blender create Mesh node Object_20
+17:35:13 | INFO: Blender create Mesh node Object_21
+17:35:13 | INFO: Blender create Mesh node Object_22
+17:35:13 | INFO: Blender create Mesh node Object_23
+17:35:13 | INFO: Blender create Mesh node Object_24
+17:35:13 | INFO: Blender create Mesh node Object_25
+17:35:13 | INFO: Blender create Mesh node Object_26
+17:35:13 | INFO: Blender create Mesh node Object_27
+17:35:13 | INFO: Blender create Mesh node Material1
+17:35:13 | INFO: Blender create Mesh node Material1
+17:35:13 | INFO: Blender create Mesh node Material1
+17:35:13 | INFO: Blender create Mesh node Material1
+17:35:13 | INFO: Blender create Mesh node Material1
+17:35:13 | INFO: Blender create Mesh node Material1
+17:35:13 | INFO: Blender create Mesh node Object_34
+17:35:13 | INFO: Blender create Mesh node Object_35
+17:35:13 | INFO: Blender create Mesh node Object_36
+17:35:13 | INFO: Blender create Mesh node Object_37
+17:35:13 | INFO: Blender create Mesh node Object_38
+17:35:13 | INFO: Blender create Mesh node Object_39
+17:35:13 | INFO: Blender create Mesh node Material1
+17:35:13 | INFO: Blender create Mesh node Material1
+17:35:13 | INFO: Blender create Mesh node Material1
+17:35:13 | INFO: Blender create Mesh node Material1
+17:35:13 | INFO: Blender create Mesh node Object_44
+17:35:13 | INFO: Blender create Mesh node Object_45
+17:35:13 | INFO: Blender create Mesh node Object_46
+17:35:13 | INFO: glTF import finished in 0.15s
+/Users/stepan/agora-work/agora_style.py:122: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  if not m.use_nodes: continue
+AGORA_DIMS 277.2626 36.7401 295.4108  ground_z=0.00001
+AGORA_APPLIED []
+AGORA_MATLINKS_DROPPED 0
+INFO Draco is available, use library at /Applications/Blender.app/Contents/Resources/5.2/scripts/addons_core/io_scene_gltf2/libbf_intern_draco_bridge.dylib
+INFO MeshOptimizer is available, use library at /Applications/Blender.app/Contents/Resources/5.2/scripts/addons_core/io_scene_gltf2/libbf_intern_meshopt_bridge.dylib
+17:35:13 | INFO: Starting glTF 2.0 export
+17:35:13 | INFO: Extracting primitive: Object_38
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Object_39
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Object_37
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Object_35
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Object_36
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Object_34
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Object_0
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Material1
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Object_22
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Object_21
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Object_24
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Object_23
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Object_20
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Object_26
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Object_27
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Object_25
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Material1.003
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Material1.004
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Material1.009
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Material1.008
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Material1.007
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Material1.006
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Material1.005
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Object_9
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Material1.002
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Material1.010
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Material1.001
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Material1.011
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Object_2
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Object_3
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Object_1
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Material1.013
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Material1.014
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Material1.012
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Material1.023
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Material1.024
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Material1.022
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Material1.021
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Object_45
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Object_46
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Object_44
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Material1.016
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Material1.017
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Material1.015
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Material1.019
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Material1.020
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Extracting primitive: Material1.018
+17:35:13 | INFO: Primitives created: 1
+17:35:13 | INFO: Finished glTF 2.0 export in 0.12013387680053711 s
+
+17:35:13 | INFO: Data are loaded, start creating Blender stuff
+17:35:13 | INFO: Blender create Mesh node Object_38
+17:35:13 | INFO: Blender create Mesh node Object_39
+17:35:13 | INFO: Blender create Mesh node Object_37
+17:35:13 | INFO: Blender create Mesh node Object_35
+17:35:13 | INFO: Blender create Mesh node Object_36
+17:35:13 | INFO: Blender create Mesh node Object_34
+17:35:13 | INFO: Blender create Mesh node Object_0
+17:35:13 | INFO: Blender create Mesh node Material1
+17:35:13 | INFO: Blender create Mesh node Object_22
+17:35:13 | INFO: Blender create Mesh node Object_21
+17:35:13 | INFO: Blender create Mesh node Object_24
+17:35:13 | INFO: Blender create Mesh node Object_23
+17:35:13 | INFO: Blender create Mesh node Object_20
+17:35:13 | INFO: Blender create Mesh node Object_26
+17:35:13 | INFO: Blender create Mesh node Object_27
+17:35:13 | INFO: Blender create Mesh node Object_25
+17:35:13 | INFO: Blender create Mesh node Material1.003
+17:35:13 | INFO: Blender create Mesh node Material1.004
+17:35:13 | INFO: Blender create Mesh node Material1.009
+17:35:13 | INFO: Blender create Mesh node Material1.008
+17:35:13 | INFO: Blender create Mesh node Material1.007
+17:35:13 | INFO: Blender create Mesh node Material1.006
+17:35:13 | INFO: Blender create Mesh node Material1.005
+17:35:13 | INFO: Blender create Mesh node Object_9
+17:35:13 | INFO: Blender create Mesh node Material1.002
+17:35:13 | INFO: Blender create Mesh node Material1.010
+17:35:13 | INFO: Blender create Mesh node Material1.001
+17:35:13 | INFO: Blender create Mesh node Material1.011
+17:35:13 | INFO: Blender create Mesh node Object_2
+17:35:13 | INFO: Blender create Mesh node Object_3
+17:35:13 | INFO: Blender create Mesh node Object_1
+17:35:13 | INFO: Blender create Mesh node Material1.013
+17:35:13 | INFO: Blender create Mesh node Material1.014
+17:35:13 | INFO: Blender create Mesh node Material1.012
+17:35:13 | INFO: Blender create Mesh node Material1.023
+17:35:13 | INFO: Blender create Mesh node Material1.024
+17:35:13 | INFO: Blender create Mesh node Material1.022
+17:35:13 | INFO: Blender create Mesh node Material1.021
+17:35:13 | INFO: Blender create Mesh node Object_45
+17:35:13 | INFO: Blender create Mesh node Object_46
+17:35:13 | INFO: Blender create Mesh node Object_44
+17:35:13 | INFO: Blender create Mesh node Material1.016
+17:35:13 | INFO: Blender create Mesh node Material1.017
+17:35:13 | INFO: Blender create Mesh node Material1.015
+17:35:13 | INFO: Blender create Mesh node Material1.019
+17:35:13 | INFO: Blender create Mesh node Material1.020
+17:35:13 | INFO: Blender create Mesh node Material1.018
+17:35:13 | INFO: glTF import finished in 0.11s
+AGORA_REIMPORT meshes=47 tris=52297 images=0 no_uv=0
+AGORA_OK
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:31:22)
+
+Blender quit

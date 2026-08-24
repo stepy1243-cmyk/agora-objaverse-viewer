@@ -1,0 +1,109 @@
+17:35:03 | INFO: Data are loaded, start creating Blender stuff
+17:35:03 | INFO: Blender create Mesh node Emeraude_Saphir_ext
+17:35:03 | INFO: Blender create Mesh node Emeraude_Saphir_int
+17:35:03 | INFO: Blender create Mesh node Griffes
+17:35:04 | INFO: Blender create Mesh node Griffes
+17:35:04 | INFO: Blender create Mesh node Diamants_prim0
+17:35:04 | INFO: Blender create Mesh node Diamants_prim0
+17:35:04 | INFO: Blender create Mesh node Diamants_prim1
+17:35:04 | INFO: Blender create Mesh node Diamants_prim1
+17:35:04 | INFO: Blender create Mesh node Diamants_prim1
+17:35:04 | INFO: Blender create Mesh node Diamants_prim1
+17:35:04 | INFO: Blender create Mesh node Diamants_prim1
+17:35:04 | INFO: Blender create Mesh node dos
+17:35:05 | INFO: Blender create Mesh node cadran
+17:35:05 | INFO: Blender create Mesh node cadran
+17:35:05 | INFO: Blender create Mesh node Nacre
+17:35:05 | INFO: Blender create Mesh node Heure
+17:35:05 | INFO: Blender create Mesh node Minute
+17:35:05 | INFO: Blender create Mesh node Bracelet_Nez
+17:35:05 | INFO: Blender create Mesh node Panthere
+17:35:05 | INFO: Blender create Mesh node Panthere
+17:35:05 | INFO: glTF import finished in 1.81s
+/Users/stepan/agora-work/agora_style.py:122: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  if not m.use_nodes: continue
+AGORA_DIMS 0.0292 0.0684 0.0648  ground_z=-0.00000
+AGORA_APPLIED ["uv_project Diamants_prim1"]
+AGORA_MATLINKS_DROPPED 0
+INFO Draco is available, use library at /Applications/Blender.app/Contents/Resources/5.2/scripts/addons_core/io_scene_gltf2/libbf_intern_draco_bridge.dylib
+INFO MeshOptimizer is available, use library at /Applications/Blender.app/Contents/Resources/5.2/scripts/addons_core/io_scene_gltf2/libbf_intern_meshopt_bridge.dylib
+17:35:07 | INFO: Starting glTF 2.0 export
+17:35:07 | INFO: Extracting primitive: Bracelet_Nez
+17:35:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+17:35:07 | INFO: Primitives created: 1
+17:35:07 | INFO: Extracting primitive: cadran
+17:35:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+17:35:07 | INFO: Primitives created: 1
+17:35:07 | INFO: Extracting primitive: cadran.001
+17:35:07 | INFO: Primitives created: 1
+17:35:07 | INFO: Extracting primitive: Diamants_prim0
+17:35:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+17:35:07 | INFO: Primitives created: 1
+17:35:07 | INFO: Extracting primitive: Diamants_prim0.001
+17:35:07 | INFO: Primitives created: 1
+17:35:07 | INFO: Extracting primitive: Diamants_prim1
+17:35:07 | INFO: Primitives created: 1
+17:35:07 | INFO: Extracting primitive: Diamants_prim1.001
+17:35:07 | INFO: Primitives created: 1
+17:35:07 | INFO: Extracting primitive: Diamants_prim1.002
+17:35:07 | INFO: Primitives created: 1
+17:35:07 | INFO: Extracting primitive: Diamants_prim1.003
+17:35:07 | INFO: Primitives created: 1
+17:35:07 | INFO: Extracting primitive: Diamants_prim1.004
+17:35:07 | INFO: Primitives created: 1
+17:35:07 | INFO: Extracting primitive: dos
+17:35:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+17:35:07 | INFO: Primitives created: 1
+17:35:07 | INFO: Extracting primitive: Emeraude_Saphir_ext
+17:35:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+17:35:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+17:35:07 | INFO: Primitives created: 1
+17:35:07 | INFO: Extracting primitive: Emeraude_Saphir_int
+17:35:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+17:35:07 | INFO: Primitives created: 1
+17:35:07 | INFO: Extracting primitive: Griffes
+17:35:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+17:35:07 | INFO: Primitives created: 1
+17:35:07 | INFO: Extracting primitive: Griffes.001
+17:35:07 | INFO: Primitives created: 1
+17:35:07 | INFO: Extracting primitive: Heure
+17:35:07 | INFO: Primitives created: 1
+17:35:07 | INFO: Extracting primitive: Minute
+17:35:07 | INFO: Primitives created: 1
+17:35:07 | INFO: Extracting primitive: Nacre
+17:35:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+17:35:07 | INFO: Primitives created: 1
+17:35:07 | INFO: Extracting primitive: Panthere
+17:35:07 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+17:35:07 | INFO: Primitives created: 1
+17:35:07 | INFO: Extracting primitive: Panthere.001
+17:35:07 | INFO: Primitives created: 1
+17:35:07 | INFO: Finished glTF 2.0 export in 0.6670961380004883 s
+
+17:35:07 | INFO: Data are loaded, start creating Blender stuff
+17:35:07 | INFO: Blender create Mesh node Bracelet_Nez
+17:35:08 | INFO: Blender create Mesh node cadran
+17:35:08 | INFO: Blender create Mesh node cadran.001
+17:35:08 | INFO: Blender create Mesh node Diamants_prim0
+17:35:08 | INFO: Blender create Mesh node Diamants_prim0.001
+17:35:08 | INFO: Blender create Mesh node Diamants_prim1
+17:35:08 | INFO: Blender create Mesh node Diamants_prim1.001
+17:35:08 | INFO: Blender create Mesh node Diamants_prim1.002
+17:35:08 | INFO: Blender create Mesh node Diamants_prim1.003
+17:35:09 | INFO: Blender create Mesh node Diamants_prim1.004
+17:35:09 | INFO: Blender create Mesh node dos
+17:35:09 | INFO: Blender create Mesh node Emeraude_Saphir_ext
+17:35:09 | INFO: Blender create Mesh node Emeraude_Saphir_int
+17:35:09 | INFO: Blender create Mesh node Griffes
+17:35:09 | INFO: Blender create Mesh node Griffes.001
+17:35:09 | INFO: Blender create Mesh node Heure
+17:35:09 | INFO: Blender create Mesh node Minute
+17:35:09 | INFO: Blender create Mesh node Nacre
+17:35:09 | INFO: Blender create Mesh node Panthere
+17:35:09 | INFO: Blender create Mesh node Panthere.001
+17:35:09 | INFO: glTF import finished in 1.98s
+AGORA_REIMPORT meshes=20 tris=477889 images=26 no_uv=0
+AGORA_OK
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:31:22)
+
+Blender quit

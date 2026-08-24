@@ -1,0 +1,61 @@
+17:37:12 | INFO: Data are loaded, start creating Blender stuff
+17:37:12 | INFO: Blender create Mesh node Object_38
+17:37:12 | INFO: Blender create Mesh node Object_39
+17:37:12 | INFO: Blender create Mesh node Object_37
+17:37:12 | INFO: Blender create Mesh node Object_35
+17:37:12 | INFO: Blender create Mesh node Object_36
+17:37:12 | INFO: Blender create Mesh node Object_34
+17:37:12 | INFO: Blender create Mesh node Object_0
+17:37:12 | INFO: Blender create Mesh node Material1
+17:37:12 | INFO: Blender create Mesh node Object_22
+17:37:12 | INFO: Blender create Mesh node Object_21
+17:37:12 | INFO: Blender create Mesh node Object_24
+17:37:12 | INFO: Blender create Mesh node Object_23
+17:37:12 | INFO: Blender create Mesh node Object_20
+17:37:12 | INFO: Blender create Mesh node Object_26
+17:37:12 | INFO: Blender create Mesh node Object_27
+17:37:12 | INFO: Blender create Mesh node Object_25
+17:37:12 | INFO: Blender create Mesh node Material1.003
+17:37:12 | INFO: Blender create Mesh node Material1.004
+17:37:12 | INFO: Blender create Mesh node Material1.009
+17:37:12 | INFO: Blender create Mesh node Material1.008
+17:37:12 | INFO: Blender create Mesh node Material1.007
+17:37:12 | INFO: Blender create Mesh node Material1.006
+17:37:12 | INFO: Blender create Mesh node Material1.005
+17:37:12 | INFO: Blender create Mesh node Object_9
+17:37:12 | INFO: Blender create Mesh node Material1.002
+17:37:12 | INFO: Blender create Mesh node Material1.010
+17:37:12 | INFO: Blender create Mesh node Material1.001
+17:37:12 | INFO: Blender create Mesh node Material1.011
+17:37:12 | INFO: Blender create Mesh node Object_2
+17:37:12 | INFO: Blender create Mesh node Object_3
+17:37:12 | INFO: Blender create Mesh node Object_1
+17:37:12 | INFO: Blender create Mesh node Material1.013
+17:37:12 | INFO: Blender create Mesh node Material1.014
+17:37:12 | INFO: Blender create Mesh node Material1.012
+17:37:12 | INFO: Blender create Mesh node Material1.023
+17:37:12 | INFO: Blender create Mesh node Material1.024
+17:37:12 | INFO: Blender create Mesh node Material1.022
+17:37:12 | INFO: Blender create Mesh node Material1.021
+17:37:12 | INFO: Blender create Mesh node Object_45
+17:37:12 | INFO: Blender create Mesh node Object_46
+17:37:12 | INFO: Blender create Mesh node Object_44
+17:37:12 | INFO: Blender create Mesh node Material1.016
+17:37:12 | INFO: Blender create Mesh node Material1.017
+17:37:12 | INFO: Blender create Mesh node Material1.015
+17:37:12 | INFO: Blender create Mesh node Material1.019
+17:37:12 | INFO: Blender create Mesh node Material1.020
+17:37:12 | INFO: Blender create Mesh node Material1.018
+17:37:12 | INFO: glTF import finished in 0.28s
+/Users/stepan/agora-work/qc_render.py:32: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  w.use_nodes = True
+00:13.880  render           | Saved: '/Users/stepan/agora-objaverse-viewer/qc/tourbillon-poly__4088d396_front.png'
+00:15.454  render           | Saved: '/Users/stepan/agora-objaverse-viewer/qc/tourbillon-poly__4088d396_three-quarter.png'
+00:18.162  render           | Saved: '/Users/stepan/agora-objaverse-viewer/qc/tourbillon-poly__4088d396_side.png'
+00:22.966  render           | Saved: '/Users/stepan/agora-objaverse-viewer/qc/tourbillon-poly__4088d396_top-detail.png'
+QC_STATS meshes=47 tris~=52297 dims=277.263,36.740,295.411
+QC_VIEW Standard
+QC_SHEET_SKIP No module named 'PIL'
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:31:22)
+
+Blender quit

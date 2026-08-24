@@ -1,0 +1,55 @@
+17:35:03 | INFO: Data are loaded, start creating Blender stuff
+17:35:03 | INFO: Blender create Mesh node pasted__pCone1_blinn5_0
+17:35:03 | INFO: Blender create Mesh node pasted__pTorus1_pasted__blinn5_0
+17:35:03 | INFO: Blender create Mesh node pasted__pasted__pTorus1_pasted__pasted__blinn3_0
+17:35:03 | INFO: Blender create Mesh node pasted__pasted__pSphere1_pasted__pasted__blinn3_0
+17:35:03 | INFO: Blender create Mesh node pasted__pasted__pSphere2_pasted__pasted__blinn3_0
+17:35:03 | INFO: Blender create Mesh node pasted__pasted__pasted__pSphere1_pasted__pasted__blinn3_0
+17:35:03 | INFO: Blender create Mesh node pasted__pSphere1_pasted__pasted__blinn3_0
+17:35:03 | INFO: Blender create Mesh node pasted__pTorus2_pasted__blinn5_0
+17:35:03 | INFO: Blender create Mesh node pasted__pasted__pTorus2_pasted__blinn5_0
+17:35:03 | INFO: glTF import finished in 0.08s
+/Users/stepan/agora-work/agora_style.py:122: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  if not m.use_nodes: continue
+AGORA_DIMS 2.0006 2.0000 0.5752  ground_z=-0.00000
+AGORA_APPLIED []
+AGORA_MATLINKS_DROPPED 0
+INFO Draco is available, use library at /Applications/Blender.app/Contents/Resources/5.2/scripts/addons_core/io_scene_gltf2/libbf_intern_draco_bridge.dylib
+INFO MeshOptimizer is available, use library at /Applications/Blender.app/Contents/Resources/5.2/scripts/addons_core/io_scene_gltf2/libbf_intern_meshopt_bridge.dylib
+17:35:03 | INFO: Starting glTF 2.0 export
+17:35:03 | INFO: Extracting primitive: pasted__pasted__pTorus1_pasted__pasted__blinn3_0
+17:35:03 | INFO: Primitives created: 1
+17:35:03 | INFO: Extracting primitive: pasted__pasted__pTorus2_pasted__blinn5_0
+17:35:03 | INFO: Primitives created: 1
+17:35:03 | INFO: Extracting primitive: pasted__pTorus2_pasted__blinn5_0
+17:35:03 | INFO: Primitives created: 1
+17:35:03 | INFO: Extracting primitive: pasted__pasted__pasted__pSphere1_pasted__pasted__blinn3_0
+17:35:03 | INFO: Primitives created: 1
+17:35:03 | INFO: Extracting primitive: pasted__pasted__pSphere1_pasted__pasted__blinn3_0
+17:35:03 | INFO: Primitives created: 1
+17:35:03 | INFO: Extracting primitive: pasted__pasted__pSphere2_pasted__pasted__blinn3_0
+17:35:03 | INFO: Primitives created: 1
+17:35:03 | INFO: Extracting primitive: pasted__pSphere1_pasted__pasted__blinn3_0
+17:35:03 | INFO: Primitives created: 1
+17:35:03 | INFO: Extracting primitive: pasted__pCone1_blinn5_0
+17:35:03 | INFO: Primitives created: 1
+17:35:03 | INFO: Extracting primitive: pasted__pTorus1_pasted__blinn5_0
+17:35:03 | INFO: Primitives created: 1
+17:35:03 | INFO: Finished glTF 2.0 export in 0.10540390014648438 s
+
+17:35:03 | INFO: Data are loaded, start creating Blender stuff
+17:35:03 | INFO: Blender create Mesh node pasted__pasted__pTorus1_pasted__pasted__blinn3_0
+17:35:03 | INFO: Blender create Mesh node pasted__pasted__pTorus2_pasted__blinn5_0
+17:35:03 | INFO: Blender create Mesh node pasted__pTorus2_pasted__blinn5_0
+17:35:03 | INFO: Blender create Mesh node pasted__pasted__pasted__pSphere1_pasted__pasted__blinn3_0
+17:35:03 | INFO: Blender create Mesh node pasted__pasted__pSphere1_pasted__pasted__blinn3_0
+17:35:03 | INFO: Blender create Mesh node pasted__pasted__pSphere2_pasted__pasted__blinn3_0
+17:35:03 | INFO: Blender create Mesh node pasted__pSphere1_pasted__pasted__blinn3_0
+17:35:03 | INFO: Blender create Mesh node pasted__pCone1_blinn5_0
+17:35:03 | INFO: Blender create Mesh node pasted__pTorus1_pasted__blinn5_0
+17:35:03 | INFO: glTF import finished in 0.03s
+AGORA_REIMPORT meshes=9 tris=13954 images=1 no_uv=0
+AGORA_OK
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:31:22)
+
+Blender quit

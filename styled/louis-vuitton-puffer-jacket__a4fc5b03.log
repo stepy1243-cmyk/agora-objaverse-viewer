@@ -1,0 +1,43 @@
+17:35:09 | INFO: Data are loaded, start creating Blender stuff
+17:35:09 | INFO: Blender create Mesh node lvpuffer_puffer_FRONT_1518_0
+17:35:09 | INFO: Blender create Mesh node lvpuffer_Fabric843113_FRONT_9293_0
+17:35:09 | INFO: Blender create Mesh node lvpuffer_Material842959_0
+17:35:09 | INFO: Blender create Mesh node lvpuffer_Material843118_0
+17:35:09 | INFO: Blender create Mesh node lvpuffer_Material843120_0
+17:35:09 | INFO: Blender create Mesh node lvpuffer_Material843122_0
+17:35:09 | INFO: glTF import finished in 0.20s
+/Users/stepan/agora-work/agora_style.py:122: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  if not m.use_nodes: continue
+AGORA_DIMS 141.7037 42.4515 68.4372  ground_z=0.00000
+AGORA_APPLIED []
+AGORA_MATLINKS_DROPPED 0
+INFO Draco is available, use library at /Applications/Blender.app/Contents/Resources/5.2/scripts/addons_core/io_scene_gltf2/libbf_intern_draco_bridge.dylib
+INFO MeshOptimizer is available, use library at /Applications/Blender.app/Contents/Resources/5.2/scripts/addons_core/io_scene_gltf2/libbf_intern_meshopt_bridge.dylib
+17:35:09 | INFO: Starting glTF 2.0 export
+17:35:09 | INFO: Extracting primitive: lvpuffer_Fabric843113_FRONT_9293_0
+17:35:09 | INFO: Primitives created: 1
+17:35:09 | INFO: Extracting primitive: lvpuffer_Material842959_0
+17:35:09 | INFO: Primitives created: 1
+17:35:09 | INFO: Extracting primitive: lvpuffer_Material843118_0
+17:35:09 | INFO: Primitives created: 1
+17:35:09 | INFO: Extracting primitive: lvpuffer_Material843120_0
+17:35:09 | INFO: Primitives created: 1
+17:35:09 | INFO: Extracting primitive: lvpuffer_Material843122_0
+17:35:09 | INFO: Primitives created: 1
+17:35:09 | INFO: Extracting primitive: lvpuffer_puffer_FRONT_1518_0
+17:35:09 | INFO: Primitives created: 1
+17:35:09 | INFO: Finished glTF 2.0 export in 0.27416515350341797 s
+
+17:35:09 | INFO: Data are loaded, start creating Blender stuff
+17:35:09 | INFO: Blender create Mesh node lvpuffer_Fabric843113_FRONT_9293_0
+17:35:09 | INFO: Blender create Mesh node lvpuffer_Material842959_0
+17:35:09 | INFO: Blender create Mesh node lvpuffer_Material843118_0
+17:35:09 | INFO: Blender create Mesh node lvpuffer_Material843120_0
+17:35:09 | INFO: Blender create Mesh node lvpuffer_Material843122_0
+17:35:09 | INFO: Blender create Mesh node lvpuffer_puffer_FRONT_1518_0
+17:35:09 | INFO: glTF import finished in 0.16s
+AGORA_REIMPORT meshes=6 tris=98923 images=12 no_uv=0
+AGORA_OK
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:31:22)
+
+Blender quit

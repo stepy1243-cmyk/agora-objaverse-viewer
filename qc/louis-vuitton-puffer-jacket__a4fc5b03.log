@@ -1,0 +1,20 @@
+17:36:30 | INFO: Data are loaded, start creating Blender stuff
+17:36:30 | INFO: Blender create Mesh node lvpuffer_Fabric843113_FRONT_9293_0
+17:36:30 | INFO: Blender create Mesh node lvpuffer_Material842959_0
+17:36:30 | INFO: Blender create Mesh node lvpuffer_Material843118_0
+17:36:30 | INFO: Blender create Mesh node lvpuffer_Material843120_0
+17:36:30 | INFO: Blender create Mesh node lvpuffer_Material843122_0
+17:36:30 | INFO: Blender create Mesh node lvpuffer_puffer_FRONT_1518_0
+17:36:31 | INFO: glTF import finished in 0.23s
+/Users/stepan/agora-work/qc_render.py:32: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  w.use_nodes = True
+00:13.385  render           | Saved: '/Users/stepan/agora-objaverse-viewer/qc/louis-vuitton-puffer-jacket__a4fc5b03_front.png'
+00:14.927  render           | Saved: '/Users/stepan/agora-objaverse-viewer/qc/louis-vuitton-puffer-jacket__a4fc5b03_three-quarter.png'
+00:15.583  render           | Saved: '/Users/stepan/agora-objaverse-viewer/qc/louis-vuitton-puffer-jacket__a4fc5b03_side.png'
+00:16.340  render           | Saved: '/Users/stepan/agora-objaverse-viewer/qc/louis-vuitton-puffer-jacket__a4fc5b03_top-detail.png'
+QC_STATS meshes=6 tris~=98923 dims=141.704,42.451,68.437
+QC_VIEW Standard
+QC_SHEET_SKIP No module named 'PIL'
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:31:22)
+
+Blender quit

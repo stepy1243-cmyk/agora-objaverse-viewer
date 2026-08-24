@@ -1,0 +1,56 @@
+17:35:10 | INFO: Data are loaded, start creating Blender stuff
+17:35:10 | INFO: Blender create Mesh node Object_0
+17:35:10 | INFO: Blender create Mesh node Object_1
+17:35:10 | INFO: Blender create Mesh node Object_2
+17:35:10 | INFO: Blender create Mesh node Object_3
+17:35:11 | INFO: Blender create Mesh node Object_4
+17:35:11 | INFO: Blender create Mesh node Object_5
+17:35:11 | INFO: Blender create Mesh node Object_6
+17:35:11 | INFO: Blender create Mesh node Object_7
+17:35:11 | INFO: Blender create Mesh node Object_8
+17:35:11 | INFO: glTF import finished in 1.02s
+/Users/stepan/agora-work/agora_style.py:122: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  if not m.use_nodes: continue
+AGORA_DIMS 25.2167 8.1677 17.2411  ground_z=0.00000
+AGORA_APPLIED []
+AGORA_MATLINKS_DROPPED 0
+INFO Draco is available, use library at /Applications/Blender.app/Contents/Resources/5.2/scripts/addons_core/io_scene_gltf2/libbf_intern_draco_bridge.dylib
+INFO MeshOptimizer is available, use library at /Applications/Blender.app/Contents/Resources/5.2/scripts/addons_core/io_scene_gltf2/libbf_intern_meshopt_bridge.dylib
+17:35:11 | INFO: Starting glTF 2.0 export
+17:35:11 | INFO: Extracting primitive: Object_0
+17:35:11 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_1
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_2
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_3
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_4
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_5
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_6
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_7
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Extracting primitive: Object_8
+17:35:11 | INFO: Primitives created: 1
+17:35:11 | INFO: Finished glTF 2.0 export in 0.3596761226654053 s
+
+17:35:12 | INFO: Data are loaded, start creating Blender stuff
+17:35:12 | INFO: Blender create Mesh node Object_0
+17:35:12 | INFO: Blender create Mesh node Object_1
+17:35:12 | INFO: Blender create Mesh node Object_2
+17:35:12 | INFO: Blender create Mesh node Object_3
+17:35:12 | INFO: Blender create Mesh node Object_4
+17:35:12 | INFO: Blender create Mesh node Object_5
+17:35:12 | INFO: Blender create Mesh node Object_6
+17:35:13 | INFO: Blender create Mesh node Object_7
+17:35:13 | INFO: Blender create Mesh node Object_8
+17:35:13 | INFO: glTF import finished in 1.24s
+AGORA_REIMPORT meshes=9 tris=294276 images=3 no_uv=0
+AGORA_OK
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:31:22)
+
+Blender quit

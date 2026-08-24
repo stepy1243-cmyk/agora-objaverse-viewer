@@ -1,0 +1,36 @@
+17:37:12 | INFO: Data are loaded, start creating Blender stuff
+17:37:12 | INFO: Blender create Mesh node Object_0
+17:37:12 | INFO: Blender create Mesh node Object_1
+17:37:12 | INFO: Blender create Mesh node Object_2
+17:37:12 | INFO: Blender create Mesh node Object_3
+17:37:12 | INFO: Blender create Mesh node Object_4
+17:37:12 | INFO: Blender create Mesh node Object_5
+17:37:12 | INFO: Blender create Mesh node Object_6
+17:37:12 | INFO: Blender create Mesh node Object_7
+17:37:12 | INFO: Blender create Mesh node Object_8
+17:37:12 | INFO: Blender create Mesh node Object_9
+17:37:12 | INFO: Blender create Mesh node Object_10
+17:37:12 | INFO: Blender create Mesh node Object_11
+17:37:13 | INFO: Blender create Mesh node Object_12
+17:37:13 | INFO: Blender create Mesh node Object_13
+17:37:13 | INFO: Blender create Mesh node Object_14
+17:37:13 | INFO: Blender create Mesh node Object_15
+17:37:13 | INFO: Blender create Mesh node Object_16
+17:37:13 | INFO: Blender create Mesh node Object_17
+17:37:13 | INFO: Blender create Mesh node Object_18
+17:37:13 | INFO: Blender create Mesh node Object_19
+17:37:14 | INFO: Blender create Mesh node Object_20
+17:37:14 | INFO: Blender create Mesh node Object_21
+17:37:14 | INFO: glTF import finished in 2.11s
+/Users/stepan/agora-work/qc_render.py:32: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  w.use_nodes = True
+00:26.560  render           | Saved: '/Users/stepan/agora-objaverse-viewer/qc/rolex-oyster-perpetual-submariner__232e52d8_front.png'
+00:28.957  render           | Saved: '/Users/stepan/agora-objaverse-viewer/qc/rolex-oyster-perpetual-submariner__232e52d8_three-quarter.png'
+00:30.304  render           | Saved: '/Users/stepan/agora-objaverse-viewer/qc/rolex-oyster-perpetual-submariner__232e52d8_side.png'
+00:31.721  render           | Saved: '/Users/stepan/agora-objaverse-viewer/qc/rolex-oyster-perpetual-submariner__232e52d8_top-detail.png'
+QC_STATS meshes=22 tris~=309268 dims=0.070,0.133,0.126
+QC_VIEW Standard
+QC_SHEET_SKIP No module named 'PIL'
+Blender 5.2.0 LTS (hash fbe6228777e7 built 2026-07-14 01:31:22)
+
+Blender quit
